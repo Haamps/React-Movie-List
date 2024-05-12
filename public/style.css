@@ -1,0 +1,63 @@
+h1, h2, form{
+    text-align: center;
+}
+
+select {
+    width: 15%;
+}
+
+li {
+    max-width: 40%;
+    margin-left: 29%;
+    margin-top: 25px;
+}
+
+.box{
+    margin-right: 100px;
+    margin-bottom: 30px;
+}
+p{
+    margin-right: 150px;
+    font-weight: bold;
+}
+
+.rating-box{
+    margin-bottom: 50px;
+}
+
+.title-box{
+    margin-bottom: 20px;
+}
+
+.submit-box{
+    background-color: rgb(97, 192, 97);
+    font-weight: bold;
+    color: white;
+    border-radius: 10px;
+}
+.movie-group-item{
+    font-weight: bold;
+    font-size: 30px;
+    display: flex;
+}
+.delete-button {
+    margin-left: auto;
+}
+
+.stars-container{
+    margin-left: auto;
+}
+
+.sorting-buttons{
+    margin-left: 39%;
+}
+
+.sorting-button{
+    margin-top: 100px;
+    background-color: rgb(74, 118, 194);
+    color: white;
+}
+
+.container{
+    background-color: rgb(207, 214, 173);
+}
