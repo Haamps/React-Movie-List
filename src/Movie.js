@@ -1,5 +1,6 @@
 import React from 'react';
 
+//kör en for loop som räknar betyget och skapar antalet stjärnor där efter
 export default function Movie(props) {
     const renderStars = () => {
         const stars = [];
@@ -8,7 +9,7 @@ export default function Movie(props) {
         }
         return stars;
     };
-
+    //returnerar det som skapas som t.ex titeln, delete knappen och stjärnorna
     return (
         <li className="movie-group-item">
            
